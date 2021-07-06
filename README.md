@@ -90,9 +90,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/SriSatyaLokesh">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
+<a href="https://github.com/NikhilPyreddy">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilpyreddy&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="nikhilpyreddy" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=nikhilpyreddy&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="nikhilpyreddy" height=150px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpyreddy&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
 </a>
 </p>
 
